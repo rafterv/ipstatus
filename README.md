@@ -14,7 +14,6 @@ IP Status Checker is a Bash script that checks the availability of IP addresses 
 
 - Bash
 - ping utility (usually pre-installed on most Unix-like systems)
-- dialog utility
 
 ### Syntax
 
