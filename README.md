@@ -31,4 +31,4 @@ This command will check the availability of IP addresses from `192.168.1.2` to `
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
